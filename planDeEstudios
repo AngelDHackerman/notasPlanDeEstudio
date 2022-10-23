@@ -12,17 +12,9 @@ Cursos y libros para alcanzar la nueva mision:
 
 	Cursos:
 	
-	
-	
 Curso de Estructuras de Datos Lineales con Python
 	
-Curso de excel basico
-
-Curso Básico de Manipulación y Transformación de Datos con Pandas y NumPy
-
 Curso de Estadística Computacional con Python
-
-Curso de Lenguaje y Notación Matemática
 
 Curso Básico de Cálculo Diferencial
 
@@ -30,15 +22,7 @@ Curso de Fundamentos de Matemáticas para Física
 
 Curso de Introducción al Pensamiento Computacional con Python
 
-Curso de Fundamentos de Bases de Datos
-
-Curso de PostgreSQL
-
 Curso Básico de MongoDB
-
-Curso de introduccion a elasticsearch
-
-Curso Práctico de SQL
 
 Curso de Administración de Servidores Linux
 
@@ -49,11 +33,6 @@ Curso de Introducción a Google Cloud Platform
 Curso de Kubernetes
 
 Curso de Docker
-
-
-
-
-
 	
 Curso de Almacenamiento en Azure
 
@@ -81,19 +60,20 @@ Curso de Fundamentos de Spark para Big Data
 
 Curso de Optimización de Bases de Datos en SQL Server
 
-Curso de PostgreSQL Aplicado a Ciencia de Datos
+Curso de introduccion al desarrollo backend: 6, 
 
+Curso de Scrapy: 
 
-Curso de Ingeniería de Datos con Python
+Curso de Web Scraping: Extracción de Datos en la Web
 
+Docker & Kubernetes 2022: 19, 
 
+Linux Red Hat Certified Engineer (RHCE - EX294):
 
+Full-length LPI Linux Essentials Timed Tests: 
 
-Curso de Ética y Manejo de Datos para Data Science e Inteligencia Artificial
-
-Curso de Matemáticas para Data Science: Estadística Descriptiva
-
-Curso Básico de Visualización de Datos con Matplotlib y Seaborn
+Linux redhat certified system administrator: 
+	
 
 Curso de Bases de Datos en Azure
 
@@ -116,14 +96,6 @@ Curso de Física Mecánica Estática
 Curso de Ecuaciones Diferenciales
 
 Curso de Introducción al Álgebra Lineal: Vectores
-
-Curso de Fundamentos de Álgebra Lineal con Python
-
-Curso de Matemáticas para Data Science: Probabilidad
-
-Curso de Matemáticas para Data Science: Estadística Descriptiva
-
-Curso de Funciones Matemáticas para Data Science e Inteligencia Artificial
 
 Curso de Introducción al Pensamiento Probabilístico
 
@@ -207,8 +179,6 @@ Snow crash
 
 Ready player one
 
-Blade Runner: Sueñan los androides con ovejas electricas?
-
 Blade Runner: Sueñan los androides con ovejas electricas? V2 
 
 1984 
@@ -255,8 +225,6 @@ el nuevo vivr del trading - alexander elder
 
 biblia de las velas japonesas
 
-el inversor inteligente - Benjamin graham
-
 principios - Ray Dalio
 
 
@@ -283,48 +251,122 @@ Al momento hay 23 libros
 
 	Libros y cursos actuales, notas de en que pagina o episodio voy.
 
-25 paginas por dia
-
-
-Complete guide to test automation: 32, 52, 
-
 
 
 	Cursos de programacion: 
-
-
-Automate the boring stuff with python course: 12, 22, 25, 28, 30, 35, 36, PAUSADO. 
-
-Curso de introduccion al desarrollo backend: 6, 
-
-Curso de Scrapy: 
-
-Curso de Fundamentos de Web Scraping con Python y Xpath
-
-Curso de Web Scraping: Extracción de Datos en la Web
-
-
-
-Docker & Kubernetes 2022: 19, 
-
-Linux Red Hat Certified Engineer (RHCE - EX294):
-
-Full-length LPI Linux Essentials Timed Tests: 
-
-Linux redhat certified system administrator: 
 	
+	(Fundamentos de data)
 
+Curso de Ética y Manejo de Datos para Data Science e Inteligencia Artificial
+
+Curso de Lenguaje y Notación Matemática	
+	
+Curso de introduccion a excel
+
+Curso de excel basico
+
+	(Data analyst)
+	
+Principios de visualizacion de datos para business intelligence
+
+Curso de Business Intelligence: Utilidad y Áreas de Oportunidad	
+	
+Curso de Excel Intermedio: Análisis de Información y Creación de Dashboards	
+	
+Curso de Excel Avanzado con Macros	
+	
+Curso de PostgreSQL	
+	
+Curso Práctico de SQL	
+	
+Curso de PostgreSQL Aplicado a Ciencia de Datos	
+	
+Curso de fundamentos de R
+
+Curso de tableau: visualizacion de datos y storytelling para negocios
+
+Analisis de datos con power BI
+
+Google data studio
+
+Metricas para startups: north star metric
+
+Metricas para negocios digitales
+
+Metricas y dashboards para startups
+
+Retencion para startups
+
+Instrumentacion de datos para decisiones de negocio
+
+	(Data scientist con python)
+
+Curso de fundamentos de python 
+
+Comprehensions, funciones y manejo de errores
 
 Entorno de Trabajo para Ciencia de Datos con Jupyter Notebooks y Anaconda:
 
-Networking fundamentals, David Bombal: 15, 27, 48, 
+Curso Básico de Manipulación y Transformación de Datos con Pandas y NumPy
+
+Curso Básico de Visualización de Datos con Matplotlib y Seaborn
+
+Curso de Funciones Matemáticas para Data Science e Inteligencia Artificial
+
+Curso de Matemáticas para Data Science: Estadística Descriptiva
+
+Curso de Matemáticas para Data Science: Probabilidad
+
+Curso de Análisis Exploratorio de Datos
+
+PIP y entornos virtuales
+
+Configuracion profesional de entorno de trabajo para ciencia de datos
+
+Introduccion a machine learning por mindsDB
+
+curso basico de calculo diferencial para data science e inteligencia artificial
+
+Curso de Fundamentos de Álgebra Lineal con Python
+
+Algebra lineal aplicada para machine learning
+
+Regresion lineal con python y scikit-learn
+
+Fundamentos practicos de machine learning
+
+Profesional de machine learning con Scikit-learn
+
+Curso de Fundamentos de Bases de Datos
+
+Curso de introduccion a elasticsearch
+
+Crear tus proyectos de ciencia de datos
+
+Introduccion al despiegue de modelos de machine learning
+
+	(Data engineer)
 	
-	
-	
-	
-	
-	
-	
+Curso de Fundamentos de Web Scraping con Python y Xpath
+
+Curso de Ingeniería de Datos con Python
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 	
 		Cursos terminados: 	
 		
