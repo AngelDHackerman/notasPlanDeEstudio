@@ -11,9 +11,7 @@ Cursos y libros para alcanzar la nueva mision:
 
 
 	Cursos:
-	
-Curso de Estructuras de Datos Lineales con Python
-	
+
 Curso de Estadística Computacional con Python
 
 Curso Básico de Cálculo Diferencial
@@ -24,47 +22,19 @@ Curso de Introducción al Pensamiento Computacional con Python
 
 Curso Básico de MongoDB
 
-Curso de Administración de Servidores Linux
-
 Curso de Introducción a la Nube con Azure
 
 Curso de Introducción a Google Cloud Platform
-
-Curso de Kubernetes
-
-Curso de Docker
 	
 Curso de Almacenamiento en Azure
 
 Curso de Azure IaaS
 
-Curso de AWS Redshift para Manejo de Big Data
-
-Curso Práctico de Bases de Datos en AWS
-
-Curso Práctico de Storage en AWS
-
-Curso Práctico de AWS: Cómputo con EC2
-
-Curso Práctico de AWS: Roles y Seguridad con IAM
-	
-Curso de Introducción a AWS: Redes, Gobernanza y Machine Learning	
-
-Curso de Introducción a AWS: Cómputo, Almacenamiento y Bases de Datos
-
-Curso de Introducción a AWS: Fundamentos de Cloud Computing
-
 Curso de Hadoop
-
-Curso de Fundamentos de Spark para Big Data
 
 Curso de Optimización de Bases de Datos en SQL Server
 
 Curso de introduccion al desarrollo backend: 6, 
-
-Curso de Scrapy: 
-
-Curso de Web Scraping: Extracción de Datos en la Web
 
 Docker & Kubernetes 2022: 19, 
 
@@ -74,7 +44,6 @@ Full-length LPI Linux Essentials Timed Tests:
 
 Linux redhat certified system administrator: 
 	
-
 Curso de Bases de Datos en Azure
 
 Curso de SQL en Azure
@@ -114,6 +83,9 @@ Curso de Introducción a Google Cloud Platform
 Curso de SQL en Azure
 
 Curso de Bases de Datos en Azure
+
+
+
 	
 	
 		Libros:
@@ -171,7 +143,9 @@ Hacking APIs
 Libros de OccupyTheWeb***
 
 
-	Otros:
+
+
+		Otros:
 	
 Neuromante
 
@@ -226,25 +200,6 @@ el nuevo vivr del trading - alexander elder
 biblia de las velas japonesas
 
 principios - Ray Dalio
-
-
-
-
-
-
-
-
-
-
-Comentarios: 
-
-Al momento hay 64 cursos. 
-Lo ideal seria completarlos en 1 año y medio que en total hacen: 81 semanas. 
-
-Tengo que terminar 1 curso CADA 10 dias. 
-
-	
-Al momento hay 23 libros
 
 	
 ========================================================================================================================
@@ -350,6 +305,41 @@ Introduccion al despiegue de modelos de machine learning
 Curso de Fundamentos de Web Scraping con Python y Xpath
 
 Curso de Ingeniería de Datos con Python
+
+Curso de Web Scraping: Extracción de Datos en la Web
+
+Curso de Scrapy: 
+
+Curso de Estructuras de Datos Lineales con Python
+
+Curso de Fundamentos de Spark para Big Data
+
+Curso de fundamentos de apache airflow
+
+Curso de Introducción a AWS: Fundamentos de Cloud Computing
+
+Curso de Introducción a AWS: Cómputo, Almacenamiento y Bases de Datos
+
+Curso de Introducción a AWS: Redes, Gobernanza y Machine Learning
+
+Curso Práctico de AWS: Roles y Seguridad con IAM
+
+Curso Práctico de AWS: Cómputo con EC2
+
+Curso Práctico de Storage en AWS
+
+Curso Práctico de Bases de Datos en AWS
+
+Curso de big data en aws
+
+Curso de AWS Redshift para Manejo de Big Data
+
+Curso de Kubernetes
+
+
+
+
+
 
 
 
@@ -466,6 +456,8 @@ bash scripting ans shell programming: 10, 25, 31, 34 (TERMINADO  19/09/2022)
 curso de programacion basica V2: 8, 13, 18, 24, 30, 34, 38, 40, 44, 49, 51, 54, 56, 58, 64, 67, 71, 74, 79, 84 TERMINADO!!! (17/10/2022)
 
 Curso de Expresiones Regulares: 5, 8, 13, 17, 23, 29 (TERMINADO!!! 20/10/2022)
+
+Curso de introduccion al desarrollo backedn (TERMINADO!!! 22/10/2022)
 
 
 
